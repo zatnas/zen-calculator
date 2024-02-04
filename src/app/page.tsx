@@ -1,7 +1,7 @@
-import Button from './button';
+import Calculator from './calculator';
     
 export default function Page() {
   return (
-    <Button/>
+    <Calculator/>
   );
 }
